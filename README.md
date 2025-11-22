@@ -46,5 +46,3 @@ streamlit run your_script_name.py
 * Explore more advanced LLM prompting techniques for improved results.
 * Implement feedback mechanisms to enhance the tool's performance.
 
-#### Contributing
-Feel free to contribute to this project by submitting issues or pull requests.
